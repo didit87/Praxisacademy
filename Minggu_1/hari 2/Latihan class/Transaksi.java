@@ -1,8 +1,3 @@
-package oop;
-
-//Inheritance digunakan ketika parent memiliki atribut dan metode dan lalu semuanya diturunkan pada child. 
-//Contoh : class Transaksi extends Costumer (Transaksi merupakan kelas child, Costumer merupakan kelas parent).
-//contoh inheritance
 public class Transaksi extends Customer implements Barang {
 
     private int kodeBarang;

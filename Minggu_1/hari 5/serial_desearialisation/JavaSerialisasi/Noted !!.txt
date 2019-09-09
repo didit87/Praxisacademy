@@ -1,0 +1,22 @@
+siswa mampu memahami dan membuat konsep Serialization & Deserialization
+dalam program java 
+NB:
+ingat !! Kelas yang mau di-serialisasi harus mengimplements java.io.Serializable.
+
+Goalnya :
+
+ada 3 class yang dibuat dalam latihan ini
+
+1. karyawan.java
+2. serialisasi.java
+3. deserialisasi.java
+
+outpunya 
+
+1. buat class yg mau diserialisasi 
+2. buat class rubah objek di point 1 menjadi byte stream menjadi file .txt
+3. buat class deserialisasi dari byte stream menjadi objek outputy  
+ 
+
+
+sekian kalo tidak ada error !!!!

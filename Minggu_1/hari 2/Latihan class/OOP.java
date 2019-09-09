@@ -1,12 +1,7 @@
-package oop;
-
 import java.util.Scanner;
-
-public class OOP {
-
+public class Oop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         //var temporary
         int tempNoId = 0;
         String tempNama = "";
@@ -55,5 +50,4 @@ public class OOP {
         //output hasil masukan dan mengeluarkan total belanja
         t.cetakStruk();
     }
-
 }

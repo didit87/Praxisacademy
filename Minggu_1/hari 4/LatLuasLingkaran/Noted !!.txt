@@ -1,0 +1,3 @@
+latiahan variable & tipe data , konversi data 
+
+Latihan dengan Membuat Program DataDiri

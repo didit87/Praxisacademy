@@ -1,6 +1,3 @@
-package oop;
-
-//contoh class objek :
 
 public class Customer {
 
@@ -8,7 +5,7 @@ public class Customer {
     private String nama;
     private String alamat;
 
-    //konstruktor
+    
     public Customer() {
     }
 
@@ -18,7 +15,7 @@ public class Customer {
         this.alamat = alamat;
     }
 
-    //proses get set
+    
     public int getNoId() {
         return noId;
     }
